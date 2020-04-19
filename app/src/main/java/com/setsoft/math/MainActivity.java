@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         int a=R.string.app_name;
         String b = String.valueOf(a);
 //Buu değişikliktir
-
+//Güncelleme geldi
     }
 }
